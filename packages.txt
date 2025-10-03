@@ -1,1 +1,2 @@
 libmariadb-dev
+ffmpeg
