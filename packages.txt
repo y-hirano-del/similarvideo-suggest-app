@@ -1,2 +1,1 @@
-mysql-client
-libmysqlclient-dev
+libmariadb-dev
